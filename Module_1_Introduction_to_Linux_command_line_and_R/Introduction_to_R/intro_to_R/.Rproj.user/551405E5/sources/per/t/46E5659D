@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601532129404.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2620578247",
+    "id" : "46E5659D",
+    "lastKnownWriteTime" : 1601500138,
+    "last_content_update" : 1601500138,
+    "path" : "C:/Users/userpc/Desktop/Int_BT_2020/Introduction to R/intro_to_R/code-handout.R",
+    "project_path" : "code-handout.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
